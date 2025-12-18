@@ -1,0 +1,7 @@
+'産業名称','Industry A','Industry B','Industry C'
+'産業名','IndustryA','IndustryB','IndustryC'
+'付加価値係数名','EnvImpCoef'
+'付加価値',20.,35.,30.
+'最終需要',50.,35.,30.
+'輸出',20.,10.,20.
+'輸入',-60.,-5.,-15.
